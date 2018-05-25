@@ -50,3 +50,10 @@ h4 {
       width: auto;;
       height: auto;
    }
+  .bottom {
+    font-family: helvetica;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+    text-align: left;
+  }
